@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.898b907c.chunk.js",
-    "main.js.map": "/static/js/main.898b907c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2fd0bb8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2fd0bb8.js.map",
-    "static/js/2.f60ebbdb.chunk.js": "/static/js/2.f60ebbdb.chunk.js",
-    "static/js/2.f60ebbdb.chunk.js.map": "/static/js/2.f60ebbdb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d36413f4e0ed2652b5aef1d29a54b73b.js": "/precache-manifest.d36413f4e0ed2652b5aef1d29a54b73b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f60ebbdb.chunk.js.LICENSE.txt": "/static/js/2.f60ebbdb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/github-cra-deploy-example/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github-cra-deploy-example/static/js/main.bfa89695.chunk.js",
+    "main.js.map": "/github-cra-deploy-example/static/js/main.bfa89695.chunk.js.map",
+    "runtime-main.js": "/github-cra-deploy-example/static/js/runtime-main.6782679e.js",
+    "runtime-main.js.map": "/github-cra-deploy-example/static/js/runtime-main.6782679e.js.map",
+    "static/js/2.f60ebbdb.chunk.js": "/github-cra-deploy-example/static/js/2.f60ebbdb.chunk.js",
+    "static/js/2.f60ebbdb.chunk.js.map": "/github-cra-deploy-example/static/js/2.f60ebbdb.chunk.js.map",
+    "index.html": "/github-cra-deploy-example/index.html",
+    "precache-manifest.c51c2b4765953a28a92d32c999505803.js": "/github-cra-deploy-example/precache-manifest.c51c2b4765953a28a92d32c999505803.js",
+    "service-worker.js": "/github-cra-deploy-example/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github-cra-deploy-example/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f60ebbdb.chunk.js.LICENSE.txt": "/github-cra-deploy-example/static/js/2.f60ebbdb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github-cra-deploy-example/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2fd0bb8.js",
+    "static/js/runtime-main.6782679e.js",
     "static/js/2.f60ebbdb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.898b907c.chunk.js"
+    "static/js/main.bfa89695.chunk.js"
   ]
 }
